@@ -1,0 +1,50 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    margin: 0;
+    background-repeat: no;
+    background-color: #1E272F;
+    background-image: radial-gradient(circle at top, #63514a, #1D282F);
+    font-family: 'Source Serif Pro', serif;
+}
+
+.main-content {
+    margin: 0px;
+    position: absolute;
+    width: 80%;
+    left: 10%;
+}
+
+.navbar {
+    margin: 30px 0px 0px 0px;
+    background-color: #d4d1cb;
+}
+
+.titleHeader {
+    margin-top: 3rem;
+}
+
+h1 {
+    color: white;
+    display: inline;
+}
+
+.row {
+    text-align: center;
+}
+
+.project {
+    margin-top: 5px;
+    background-color: white;
+}
+
+.card-img-top {
+    width: 70%;
+    height: 20vw;
+    position: relative;
+    left: 15%;
+    margin-top: 10px;
+}
