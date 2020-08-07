@@ -48,3 +48,19 @@ h1 {
     left: 15%;
     margin-top: 10px;
 }
+
+.single-card-img-top {
+  width: 50%;
+  height: 20vw;
+  position: relative;
+  left: 25%;
+  margin-top: 10px;
+}
+
+.small-card-img-top {
+  width: 50%;
+  height: 20vw;
+  position: relative;
+  left: 25%;
+  margin-top: 10px;
+}
